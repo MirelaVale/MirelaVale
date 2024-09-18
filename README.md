@@ -23,7 +23,7 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-0D1117.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-0D1117.svg?style=for-the-badge&logo=Eclipse&logoColor=purple)
 ![Replit](https://img.shields.io/badge/Replit-0D1117?style=for-the-badge&logo=Replit&logoColor=orange)
-![Xcode](https://img.shields.io/badge/Replit-0D1117?style=for-the-badge&logo=Xcode&logoColor=blue)
+![Xcode](https://img.shields.io/badge/Xcode-0D1117?style=for-the-badge&logo=Xcode&logoColor=blue)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
