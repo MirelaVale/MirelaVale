@@ -1,35 +1,70 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mirela+Vale+Moreira;I'm+16+years+old;I'm+from+Brazil;I+study+computing+at+IFCE;Be+Welcome!+♥)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4f9f&height=120&section=header"/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MirelaVale&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h1 align="center" style="color:#ffffff;">Olá, eu sou a Mirela!</h1>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MirelaVale&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="MirelaVale github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirelaVale&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff4f9f&size=24&center=true&vCenter=true&width=1000&lines=Estudante+de+Informática+no+IFCE;Explorando+o+mundo+da+tecnologia;Sempre+aprendendo+e+evoluindo" />
+</p>
 
-<div align="center"> 
-<a href="https://instagram.com/mirelamoreirav" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
- </div>
- 
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0d1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D1117?style=for-the-badge&logo=swift&labelColor=0D1117)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117)&nbsp;
+---
 
-### IDE's:
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-0D1117.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-0D1117.svg?style=for-the-badge&logo=Eclipse&logoColor=purple)
-![Xcode](https://img.shields.io/badge/Xcode-0D1117?style=for-the-badge&logo=Xcode&logoColor=blue)
+### 🧠 Sobre Mim
+
+- 🎓 Estudante de **Informática** no IFCE
+- 👧 Tenho **16 anos** e sou do **Brasil**
+- 🌱 Atualmente aprendendo: `Java`, `Python`, `JavaScript`, `Dart`, `SwiftUI`
+- ✨ Interesses: Desenvolvimento mobile, web e novas linguagens
+
+---
+
+### 💻 Tecnologias em Aprendizado
+
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=OpenJDK)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0d1117?style=for-the-badge&logo=swift)
+
+---
+
+### 🛠️ Ferramentas & IDEs
+
+![NetBeans](https://img.shields.io/badge/NetBeans-0d1117?style=for-the-badge&logo=apache-netbeans-ide)
+![Eclipse](https://img.shields.io/badge/Eclipse-0d1117?style=for-the-badge&logo=eclipse)
+![Xcode](https://img.shields.io/badge/Xcode-0d1117?style=for-the-badge&logo=xcode)
+
+---
+
+### 📊 GitHub Insights
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MirelaVale}/count.svg" /></p> 
-<br>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MirelaVale&show_icons=true&count_private=true&hide_border=true&title_color=ff4f9f&icon_color=ff4f9f&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirelaVale&layout=compact&hide_border=true&title_color=ff4f9f&text_color=ff4f9f&bg_color=0d1117" />
 </div>
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+### 📈 Atividades Recentes
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MirelaVale&bg_color=0d1117&color=ff4f9f&line=ff4f9f&point=ff4f9f&area=true&hide_border=true)](https://github.com/MirelaVale)
+
+---
+
+### 🌐 Redes Sociais
+
+<div align="center">
+  <a href="https://instagram.com/mirelamoreirav" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+  </a>
+</div>
+
+---
+<div align="center">
+  <br>
+  <p><b>Visitantes:</b></p>
+  <p><img src="https://profile-counter.glitch.me/{MirelaVale}/count.svg"/></p>
+  <br>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4f9f&height=120&section=footer"/>
