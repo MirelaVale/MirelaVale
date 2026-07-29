@@ -34,23 +34,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-0d1117?style=for-the-badge&logo=eclipse)
 ![Xcode](https://img.shields.io/badge/Xcode-0d1117?style=for-the-badge&logo=xcode)
 
----
 
-###  GitHub Insights
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MirelaVale&show_icons=true&count_private=true&hide_border=true&title_color=ff4f9f&icon_color=ff4f9f&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirelaVale&layout=compact&hide_border=true&title_color=ff4f9f&text_color=ff4f9f&bg_color=0d1117" />
-</div>
-
----
-
-### Redes Sociais
-
-<div align="center">
-  <a href="https://instagram.com/mirelamoreirav" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-  </a>
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4f9f&height=120&section=footer"/>
