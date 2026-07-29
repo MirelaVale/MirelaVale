@@ -1,7 +1,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4f9f&height=120&section=header"/>
 
-<h1 align="center" style="color:#ffffff;">Olá, eu sou a Mirela! 👩‍💻</h1>
+<h1 align="center" style="color:#ffffff;">Olá, eu sou a Mirela! </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=ff4f9f&size=24&center=true&vCenter=true&width=1000&lines=Técnica+em+Informática;Explorando+o+mundo+da+tecnologia;Sempre+aprendendo+e+evoluindo" />
@@ -11,10 +11,10 @@
 
 ### Sobre Mim
 
-- 🎓 Técnica em **Informática** pelo IFCE
-- 👧 Tenho **17 anos**
-- 🌱 Atualmente aprendendo: `Java`, `Python`, `JavaScript`, `Dart`, `SwiftUI`
-- ✨ Interesses: Desenvolvimento mobile, web e novas linguagens
+-  Técnica em **Informática** - IFCE
+-  Tenho **17 anos**
+-  Atualmente aprendendo: `Java`, `Python`, `JavaScript`, `Dart`, `SwiftUI`
+-  Interesses: Desenvolvimento mobile, web e novas linguagens
 
 ---
 
