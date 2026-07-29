@@ -9,7 +9,7 @@
 
 ---
 
-### 🧠 Sobre Mim
+### Sobre Mim
 
 - 🎓 Técnica em **Informática** pelo IFCE
 - 👧 Tenho **17 anos**
@@ -18,7 +18,7 @@
 
 ---
 
-### 💻 Tecnologias em Aprendizado
+### Tecnologias em Aprendizado
 
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=OpenJDK)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 GitHub Insights
+###  GitHub Insights
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MirelaVale&show_icons=true&count_private=true&hide_border=true&title_color=ff4f9f&icon_color=ff4f9f&text_color=c9d1d9&bg_color=0d1117" />
@@ -45,13 +45,7 @@
 
 ---
 
-### 📈 Atividades Recentes
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MirelaVale&bg_color=0d1117&color=ff4f9f&line=ff4f9f&point=ff4f9f&area=true&hide_border=true)](https://github.com/MirelaVale)
-
----
-
-### 🌐 Redes Sociais
+### Redes Sociais
 
 <div align="center">
   <a href="https://instagram.com/mirelamoreirav" target="_blank">
